@@ -153,6 +153,7 @@ public class LinkedList_Single {
 # Double list, traversal, inertion, deletion code
 ```java
 
+
 import java.util.*;
 
 /**
@@ -162,7 +163,7 @@ import java.util.*;
 public class LinkedList_Double {
     public static void main(String[] args) {
         
-        SingleList<Integer> list = new SingleList<>();
+        DoubleList<Integer> list = new DoubleList<>();
         list.addFirst(5);
         list.addLast(10);
         list.addFirst(15);
@@ -180,7 +181,7 @@ public class LinkedList_Double {
     }
     
     // SINGLE LINKED LIST
-    static class SingleList <T>{
+    static class DoubleList <T>{
         // Two pointers for pointing at head and the finishing node
         Node head = null;
         Node last = null;
@@ -287,6 +288,7 @@ public class LinkedList_Double {
         Node prev;
     }
 }
+
 
 ```
 
