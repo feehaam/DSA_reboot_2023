@@ -1,6 +1,6 @@
 ## Linked List
 
-#Single list, traversal, inertion, deletion code
+# Single list, traversal, inertion, deletion code
 ```java S
 
 import java.util.*;
@@ -133,7 +133,7 @@ public class LinkedList_Single {
 }
 ```
 
-#Output
+# Output
 ```java 
 [ 25, 15, 5, 10, 20, 30 ]
 25
