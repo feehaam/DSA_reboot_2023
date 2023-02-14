@@ -2,7 +2,7 @@
 
 - Single, Traversal, insertion, deletion
 
-```java I'm A tab
+```java Single list, traversal, inertion, deletion code
 
 import java.util.*;
 public class LinkedList_Single {
@@ -134,4 +134,13 @@ public class LinkedList_Single {
     }
 }
 
+```java Output
+[ 25, 15, 5, 10, 20, 30 ]
+25
+30
+[ 25, 15, 5, 10, 20, 30 ]
+25
+15
+30
+[ 5, 10, 20 ]
 ```
