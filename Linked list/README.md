@@ -3,26 +3,6 @@
 - Single, Traversal, insertion, deletion
 
 ```java I'm A tab
-public static void main(String[] args) {
-        
-        SingleList<Integer> list = new SingleList<>();
-        list.addFirst(5);
-        list.addLast(10);
-        list.addFirst(15);
-        list.addLast(20);
-        list.addFirst(25);
-        list.addLast(30);
-        list.printList();
-        System.out.println(list.getFirst());
-        System.out.println(list.getLast());
-        System.out.println(list);
-        System.out.println(list.popFirst());
-        System.out.println(list.popFirst());
-        System.out.println(list.popLast());
-        System.out.println(list);
-        
-    }
-```
 
 import java.util.*;
 public class LinkedList_Single {
@@ -154,5 +134,4 @@ public class LinkedList_Single {
     }
 }
 
-
-# Single
+```
