@@ -1,8 +1,7 @@
 ## Linked List
 
-- Single, Traversal, insertion, deletion
-
-```java Single list, traversal, inertion, deletion code
+#Single list, traversal, inertion, deletion code
+```java S
 
 import java.util.*;
 public class LinkedList_Single {
@@ -123,7 +122,6 @@ public class LinkedList_Single {
             return ret;
         }
     }
-    ``` java Node
     // List node
     static class Node <T>{
         T value;
@@ -132,11 +130,11 @@ public class LinkedList_Single {
         }
         Node next;
     }
-    ```
 }
 ```
-```java 
+
 #Output
+```java 
 [ 25, 15, 5, 10, 20, 30 ]
 25
 30
