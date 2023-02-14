@@ -133,7 +133,7 @@ public class LinkedList_Single {
         Node next;
     }
 }
-
+```
 ```java Output
 [ 25, 15, 5, 10, 20, 30 ]
 25
