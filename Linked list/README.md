@@ -123,7 +123,7 @@ public class LinkedList_Single {
             return ret;
         }
     }
-    
+    ``` java Node
     // List node
     static class Node <T>{
         T value;
@@ -132,9 +132,11 @@ public class LinkedList_Single {
         }
         Node next;
     }
+    ```
 }
 ```
-```java Output
+```java 
+#Output
 [ 25, 15, 5, 10, 20, 30 ]
 25
 30
