@@ -4,7 +4,7 @@
 Various Linked List concepts implementation.
 
 ## List implementation
-- Signle: Generic type, add(), remove(), get(), traversal @LinkedList_Single.java
+- Signle: Generic type, add(), remove(), get(), traversal # LinkedList_Single.java
 - Double: Generic type, add(), remove(), get(), traversal, reversePrint() @LinkedList_Double.java
 
 ## Cycle
